@@ -44,10 +44,12 @@ number += 50;
 
 ### skjermbilde av Test, Enkel teller
 
-**test**
+**Test**
+
 ![Test resultat](test.png.jpg)
 
 **Enkel teller**
+
 ![Enkel teller resutat](Enkel-teller.png.jpg)
 
 
