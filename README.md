@@ -33,12 +33,22 @@ I disse oppgave lærte jeg hvordan man bruke Javascript og console, jeg også ha
 2. **Oppgave enkel-teller**: Opprettet en mappe med en teller-variabel for å se hvordan verdier kan økes og minkes mens programmet kjører.
 
 ### Eksempel på kode (Enkel teller)
-'''
+
+'''Javascript
 let number = 0;
 
 number += 50;
  console.log("etter +50", number)//viser på console//
+
 '''
+
+### skjermbilde av Test, Enkel teller
+
+**test**
+![Test resultat](test.png.jpg)
+
+**Enkel teller**
+![Enkel teller resutat](Enkel-teller.png.jpg)
 
 
 
